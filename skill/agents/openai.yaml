@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram Campaign Planner"
+  short_description: "Turn authorized Instagram insights and creative inventory into a balanced campaign calendar wit"
+  default_prompt: "Use @instagram-campaign-planner on my authorized input and return a validated result."
